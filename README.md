@@ -4,6 +4,13 @@ A drop-in remplacement for UISegmentedControl that mimic iOS 6 AppStore tab cont
 
 ![The only good piece of UI to extract for this terrible app](http://d.pr/i/Fn5X+)
 
+<!-- MacBuildServer Install Button -->
+<div class="macbuildserver-block">
+    <a class="macbuildserver-button" href="http://macbuildserver.com/project/github/build/?xcode_project=Example%2FExample.xcodeproj&amp;target=Example&amp;repo_url=https%3A%2F%2Fgithub.com%2Frs%2FSDSegmentedControl&amp;build_conf=Release" target="_blank"><img src="http://com.macbuildserver.github.s3-website-us-east-1.amazonaws.com/button_up.png"/></a><br/><sup><a href="http://macbuildserver.com/github/opensource/" target="_blank">by MacBuildServer</a></sup>
+</div>
+<!-- MacBuildServer Install Button -->
+
+
 ## Features
 
 - Segments with image, image and text or text only
